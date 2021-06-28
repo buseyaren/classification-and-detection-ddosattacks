@@ -1,5 +1,7 @@
 ## **Detection of DDOS attacks by comparing classical machine learning method, reinforcement learning and deep learning methods**
 
+![AI](images/robotic.jpg "NumPy Cheat Sheet")
+
 ### Neural Networks and Algorithms 🤹‍♀️
 * [📺 Reinforcement Learning](https://www.youtube.com/watch?v=LzaWrmKL1Z4)
 * [📺 Desicion Trees](https://www.youtube.com/watch?v=jVh5NA9ERDA)
